@@ -34,6 +34,6 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Full text
             url: against-amendment-18
 ---
