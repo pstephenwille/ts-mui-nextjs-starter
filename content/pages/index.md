@@ -19,7 +19,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Full text
             url: about/
       - type: Card
         title: Against 18
