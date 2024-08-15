@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Button
             label: Full text
-            url: about/
+            url: against-17
       - type: Card
         title: Against 18
         image:
