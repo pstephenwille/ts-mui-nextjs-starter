@@ -3,7 +3,7 @@ type: Page
 title: About
 sections:
   - type: HeroSection
-    title: Example for H2 headline
+    title: Against Amendment 18
     subtitle: This is the subtitle
     text: >
       # Against amendment 18
