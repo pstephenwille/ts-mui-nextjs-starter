@@ -6,8 +6,12 @@ sections:
     title: Example for H2 headline
     subtitle: This is the subtitle
     text: >
-      This is **Markdown** *text*.
+      # Against amendment 18
 
+
+
+
+      # This is **Markdown** *text*.
 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
