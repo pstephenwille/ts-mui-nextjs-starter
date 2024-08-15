@@ -41,7 +41,7 @@ export const CardsSection: React.FC<Props> = (props) => {
 const CardsSectionItem: React.FC<types.Card & types.StackbitFieldPath & { titleTag?: 'h3' | 'h2' }> = (props) => {
     const { title, text, image, actions = [], titleTag = 'h3', 'data-sb-field-path': fieldPath } = props;
     return (
-        <MuiGrid item xs={12} sm={6} md={4}>
+        <MuiGrid item xs={12} sm={6} md={6}>
             <MuiCard sx={{ height: '100%' }} data-sb-field-path={fieldPath}>
                 {image?.url && (
                     <MuiCardMedia component="img" image={image.url} alt={image.altText} data-sb-field-path=".image .image.url#@src .image.altText#@alt" />
