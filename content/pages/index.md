@@ -22,7 +22,7 @@ sections:
             label: Read the Docs
             url: about/
       - type: Card
-        title: Second Card Title
+        title: Against 18
         image:
           type: Image
           url: /images/mui-5.svg
