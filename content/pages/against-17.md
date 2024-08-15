@@ -4,7 +4,7 @@ title: Against 18
 sections:
   - type: HeroSection
     title: Against Amendment 17
-    subtitle: This is the subtitle
+    subtitle: Why amendment 17 is bad
     text: >
       # Against amendment 17
 
