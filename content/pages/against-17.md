@@ -6,9 +6,6 @@ sections:
     title: Against Amendment 17
     subtitle: Why amendment 17 is bad
     text: >
-      # Against amendment 17
-
-
       We strongly oppose the proposed charter amendment to change redistricting
       procedures in Clark County. This amendment threatens the current system,
       which ensures a balance of political influence by distributing
