@@ -1,6 +1,6 @@
 ---
 type: Page
-title: About
+title: Against 18
 sections:
   - type: HeroSection
     title: Against Amendment 18
