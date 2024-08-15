@@ -3,14 +3,14 @@ title: Home
 type: Page
 sections:
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Keep government in check
+    subtitle: oppose  bureaucratic tyranny
     items:
       - type: Card
         title: Against 17
         image:
           type: Image
-          url: /images/against-17.jpeg
+          url: /images/against-17.s.jpeg
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -25,7 +25,7 @@ sections:
         title: Against 18
         image:
           type: Image
-          url: /images/amendment-18.jpeg
+          url: /images/amendment-18.s.jpeg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
