@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Clark County Republicans",
         "navLinks": [
             {
                 "type": "Link",
@@ -12,14 +12,14 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
+                "label": "Against 17",
+                "url": "/against-17",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "Against 18",
+                "url": "against-amendment-18",
                 "underline": "hover"
             }
         ]
@@ -35,15 +35,15 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Against 17",
                 "underline": "hover",
-                "url": "/about"
+                "url": "/against-17"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Against 18",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "against-amendment-18/"
             }
         ]
     }
