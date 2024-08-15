@@ -3,7 +3,7 @@ type: Page
 title: Against 18
 sections:
   - type: HeroSection
-    title: Against Amendment 18
+    title: Against Amendment 17
     subtitle: This is the subtitle
     text: >
       # Against amendment 17
