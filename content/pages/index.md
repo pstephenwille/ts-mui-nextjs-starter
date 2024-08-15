@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: about/
       - type: Card
         title: Second Card Title
         image:
@@ -59,7 +59,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: against-amendment-18
       - type: Card
         title: Third Card Title
         image:
