@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "Clark County Republicans",
+        "title": "Reform Clark County",
         "navLinks": [
             {
                 "type": "Link",
@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/).",
+        "copyrightText": "[Reform Clark County](https://www.reformclarkcounty.com)",
         "navLinks": [
             {
                 "type": "Link",
