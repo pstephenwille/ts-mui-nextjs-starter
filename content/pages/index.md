@@ -10,7 +10,7 @@ sections:
         title: Against 17
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/against-17.jpeg
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -25,7 +25,7 @@ sections:
         title: Against 18
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/amendment-18.jpeg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
