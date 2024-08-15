@@ -21,6 +21,13 @@
                 "label": "Against 18",
                 "url": "against-amendment-18",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "url": "http://google.com",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
