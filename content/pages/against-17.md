@@ -6,9 +6,7 @@ sections:
     title: Against Amendment 18
     subtitle: This is the subtitle
     text: >
-      # Against amendment 18
-
-
+      # Against amendment 17
 
 
       # This is **Markdown** *text*.
